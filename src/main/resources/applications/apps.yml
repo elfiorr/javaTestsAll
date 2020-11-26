@@ -1,0 +1,23 @@
+# Connection parameters
+connection:
+  tp_url: http://panel-totalmoney-web-web.kube.dev.dcwp.pl
+  mf_url: http://multiform-web-web.kube.dev.dcwp.pl
+  m2m_url: http://panel-m2m-test-web-web.kube.dev.dcwp.pl
+  direct_m2m_url: http://direct.money.pl/o/salechannel.php
+  wows_eu_url: https://api.worldofwarships.eu/wows
+  allegro_api_sandbox_url: https://api.allegro.pl.allegrosandbox.pl
+  allegro_sandbox_url: https://allegro.pl.allegrosandbox.pl
+  local_url: http://localhost:8080/api
+
+# Users
+users:
+  tp_username: test_tmn
+  tp_password: j8nzNLBcqz
+  m2m_username: kolorowejarmarki
+  m2m_password: Test1234
+  m2m_username_recommended: partnerzpolecenia
+  m2m_password_recommended: Test1234
+  m2m_api_user_key: testapitoken
+  allegro_TestyRestApiAllegro_client_id: 78eca2052c4341f39862e7ddeb69f6d4
+  allegro_TestyRestApiAllegro_client_secret: BLGT82iSqLj38uBGhlnKnl84CWIHc4soOmAAgbsoRxciVuulRYvUnYhS7B0P54hW
+  wows_eu_application_id_first: b15da3b5b53d3f9616f7d609d95f4bb2
