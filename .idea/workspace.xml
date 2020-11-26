@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7acabae-f453-41f1-a752-544ea83c771d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1iopthnavndlasol9gbrbg6bf2/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ayZDRY545kU0SGBIYJnA3siqaN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Pobrane/countryApp" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="springProject.springBoot1.bykowskIVideoApplication.api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/automatedTestsProject/main/allegro/api/offers/offersResponse" />
+      <recent name="$PROJECT_DIR$/src/test/java/ioAnia" />
+      <recent name="$PROJECT_DIR$/src/main/java/ioAnia" />
+      <recent name="$PROJECT_DIR$/src/main/java/automatedTestsProject/main/allegro/api/loginToApplication/loginToApplicationResponse" />
+      <recent name="$PROJECT_DIR$/src/main/java/automatedTestsProject/main/wows/api/warships/statistics/statisticsResponse" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="springProject.springBoot1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="packageWithAllTests.api" />
+      <recent name="AutomatedTestsProject.main.exampleClassesForUi_tp_m2m.tp.loginPages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/ioAnia" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VerifyCorrectnessOfResponseInPlayerShipsStatisticsForExistingPlayerTest">
+    <configuration name="VerifyCorrectnessOfResponseInPersonalPlayerDataForExistingPlayerTest and 3 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot1" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="packageWithAllTests.api.wowsTests.api.account.playerPersonalData.VerifyCorrectnessOfResponseInPersonalPlayerDataForExistingPlayerTest" />
+        <pattern testClass="packageWithAllTests.api.wowsTests.api.account.player.VerifyCorrectnessOfResponseInPlayerForExistingPlayerTest" />
+        <pattern testClass="packageWithAllTests.api.wowsTests.api.account.player.VerifyResponseInPlayerForNotExistingPlayerTest" />
+        <pattern testClass="packageWithAllTests.api.wowsTests.api.account.ships.VerifyCorrectnessOfResponseInPlayerShipsStatisticsForExistingPlayerTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyCorrectnessOfResponseInPersonalPlayerDataForExistingPlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="packageWithAllTests.api.wowsTests.api.account.playerPersonalData.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="packageWithAllTests.api.wowsTests.api.account.playerPersonalData" />
+      <option name="MAIN_CLASS_NAME" value="packageWithAllTests.api.wowsTests.api.account.playerPersonalData.VerifyCorrectnessOfResponseInPersonalPlayerDataForExistingPlayerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyCorrectnessOfResponseInPlayerForExistingPlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="packageWithAllTests.api.wowsTests.api.account.player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="packageWithAllTests.api.wowsTests.api.account.player" />
+      <option name="MAIN_CLASS_NAME" value="packageWithAllTests.api.wowsTests.api.account.player.VerifyCorrectnessOfResponseInPlayerForExistingPlayerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyCorrectnessOfResponseInPlayerShipsStatisticsForExistingPlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="packageWithAllTests.api.wowsTests.api.account.ships.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="packageWithAllTests.api.wowsTests.api.account.ships" />
+      <option name="MAIN_CLASS_NAME" value="packageWithAllTests.api.wowsTests.api.account.ships.VerifyCorrectnessOfResponseInPlayerShipsStatisticsForExistingPlayerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyResponseInPlayerForNotExistingPlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="packageWithAllTests.api.wowsTests.api.account.player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="packageWithAllTests.api.wowsTests.api.account.player" />
+      <option name="MAIN_CLASS_NAME" value="packageWithAllTests.api.wowsTests.api.account.player.VerifyResponseInPlayerForNotExistingPlayerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VerifyCorrectnessOfResponseInPlayerShipsStatisticsForExistingPlayerTest" />
+        <item itemvalue="JUnit.VerifyCorrectnessOfResponseInPersonalPlayerDataForExistingPlayerTest" />
+        <item itemvalue="JUnit.VerifyCorrectnessOfResponseInPlayerForExistingPlayerTest" />
+        <item itemvalue="JUnit.VerifyResponseInPlayerForNotExistingPlayerTest" />
+        <item itemvalue="JUnit.VerifyCorrectnessOfResponseInPersonalPlayerDataForExistingPlayerTest and 3 more" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7acabae-f453-41f1-a752-544ea83c771d" name="Default Changelist" comment="" />
+      <created>1587709673241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587709673241</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="644" y="334" width="631" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601470811675">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="644" y="334" width="631" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1012@0.27.1920.1012" timestamp="1601470811675" />
+    <state x="1341" y="387" width="374" height="652" key="#com.intellij.ide.util.MemberChooser" timestamp="1597994401517">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="1341" y="387" width="374" height="652" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1012@0.27.1920.1012" timestamp="1597994401517" />
+    <state x="483" y="456" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597837410609">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="483" y="456" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.27.1920.1012@0.27.1920.1012" timestamp="1597837410609" />
+    <state x="565" y="400" width="780" height="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598262157812">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="565" y="400" width="780" height="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1920.1012@0.27.1920.1012" timestamp="1598262157812" />
+    <state x="631" y="309" width="638" height="447" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597993787767">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="631" y="309" width="638" height="447" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1012@0.27.1920.1012" timestamp="1597993787767" />
+    <state x="738" y="290" width="424" height="484" key="FileChooserDialogImpl" timestamp="1598274915033">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="738" y="290" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1012@0.27.1920.1012" timestamp="1598274915033" />
+    <state width="1874" height="267" key="GridCell.Tab.0.bottom" timestamp="1606399869821">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.bottom/0.27.1920.1012@0.27.1920.1012" timestamp="1606399869821" />
+    <state width="1874" height="267" key="GridCell.Tab.0.center" timestamp="1606399869821">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.center/0.27.1920.1012@0.27.1920.1012" timestamp="1606399869821" />
+    <state width="1874" height="267" key="GridCell.Tab.0.left" timestamp="1606399869820">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.left/0.27.1920.1012@0.27.1920.1012" timestamp="1606399869820" />
+    <state width="1874" height="267" key="GridCell.Tab.0.right" timestamp="1606399869821">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state width="1874" height="267" key="GridCell.Tab.0.right/0.27.1920.1012@0.27.1920.1012" timestamp="1606399869821" />
+    <state width="1874" height="192" key="GridCell.Tab.1.bottom" timestamp="1600750363507">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state width="1874" height="192" key="GridCell.Tab.1.bottom/0.27.1920.1012@0.27.1920.1012" timestamp="1600750363507" />
+    <state width="1874" height="192" key="GridCell.Tab.1.center" timestamp="1600750363507">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state width="1874" height="192" key="GridCell.Tab.1.center/0.27.1920.1012@0.27.1920.1012" timestamp="1600750363507" />
+    <state width="1874" height="192" key="GridCell.Tab.1.left" timestamp="1600750363506">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state width="1874" height="192" key="GridCell.Tab.1.left/0.27.1920.1012@0.27.1920.1012" timestamp="1600750363506" />
+    <state width="1874" height="192" key="GridCell.Tab.1.right" timestamp="1600750363507">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state width="1874" height="192" key="GridCell.Tab.1.right/0.27.1920.1012@0.27.1920.1012" timestamp="1600750363507" />
+    <state x="848" y="429" width="937" height="701" key="dock-window-1" timestamp="1597993605047">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="848" y="429" width="937" height="701" key="dock-window-1/0.27.1920.1012@0.27.1920.1012" timestamp="1597993605047" />
+    <state x="141" y="153" width="1289" height="548" key="find.popup" timestamp="1601471319486">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="141" y="153" width="1289" height="548" key="find.popup/0.27.1920.1012@0.27.1920.1012" timestamp="1601471319486" />
+    <state x="269" y="236" width="1372" height="592" key="new project wizard" timestamp="1598274796150">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="269" y="236" width="1372" height="592" key="new project wizard/0.27.1920.1012@0.27.1920.1012" timestamp="1598274796150" />
+    <state x="624" y="243" key="run.anything.popup" timestamp="1598005568183">
+      <screen x="0" y="27" width="1920" height="1012" />
+    </state>
+    <state x="624" y="243" key="run.anything.popup/0.27.1920.1012@0.27.1920.1012" timestamp="1598005568183" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/automatedTestsProject/main/wows/api/CreateWowsRequest.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/automatedTestsProject/main/allegro/api/CreateAllegroRequest.java</url>
+          <line>102</line>
+          <properties class="automatedTestsProject.main.allegro.api.CreateAllegroRequest" method="createRequestSpecificationToAllegroSandboxWithEndpointAndBearer">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/springProject/springBoot1/countries/api/CountryApi.java</url>
+          <line>47</line>
+          <properties class="springProject.springBoot1.countries.api.CountryApi" method="updateCountry">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/springProject/springBoot1/library/api/BookRestController.java</url>
+          <line>34</line>
+          <properties class="springProject.springBoot1.library.api.BookRestController" method="addNewBook">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpringBoot1$VerifyResponseForNotExistingPlayerTests.ic" NAME="VerifyResponseForNotExistingPlayerTests Coverage Results" MODIFIED="1593693046176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>packageWithAllTests.api.wowsTests.api.account.player.*</FILTER>
+    </SUITE>
+  </component>
+</project>
