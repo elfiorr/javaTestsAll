@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7acabae-f453-41f1-a752-544ea83c771d" name="Default Changelist" comment="" />
+    <list default="true" id="c7acabae-f453-41f1-a752-544ea83c771d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/packageWithAllTests/api/TestParametersFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/packageWithAllTests/api/wowsTests/api/account/player/VerifyCorrectnessOfResponseInPlayerForExistingPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/packageWithAllTests/api/wowsTests/api/account/player/VerifyCorrectnessOfResponseInPlayerForExistingPlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/packageWithAllTests/api/wowsTests/api/account/player/VerifyResponseInPlayerForNotExistingPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/packageWithAllTests/api/wowsTests/api/account/player/VerifyResponseInPlayerForNotExistingPlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/packageWithAllTests/api/wowsTests/api/account/playerPersonalData/VerifyCorrectnessOfResponseInPersonalPlayerDataForExistingPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/packageWithAllTests/api/wowsTests/api/account/playerPersonalData/VerifyCorrectnessOfResponseInPersonalPlayerDataForExistingPlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/packageWithAllTests/api/wowsTests/api/account/ships/VerifyCorrectnessOfResponseInPlayerShipsStatisticsForExistingPlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/packageWithAllTests/api/wowsTests/api/account/ships/VerifyCorrectnessOfResponseInPlayerShipsStatisticsForExistingPlayerTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,80 +173,6 @@
       <updated>1587709673241</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="644" y="334" width="631" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601470811675">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state x="644" y="334" width="631" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1012@0.27.1920.1012" timestamp="1601470811675" />
-    <state x="1341" y="387" width="374" height="652" key="#com.intellij.ide.util.MemberChooser" timestamp="1597994401517">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state x="1341" y="387" width="374" height="652" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1012@0.27.1920.1012" timestamp="1597994401517" />
-    <state x="483" y="456" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597837410609">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state x="483" y="456" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.27.1920.1012@0.27.1920.1012" timestamp="1597837410609" />
-    <state x="565" y="400" width="780" height="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1598262157812">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state x="565" y="400" width="780" height="314" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1920.1012@0.27.1920.1012" timestamp="1598262157812" />
-    <state x="631" y="309" width="638" height="447" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597993787767">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state x="631" y="309" width="638" height="447" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1012@0.27.1920.1012" timestamp="1597993787767" />
-    <state x="738" y="290" width="424" height="484" key="FileChooserDialogImpl" timestamp="1598274915033">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state x="738" y="290" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1012@0.27.1920.1012" timestamp="1598274915033" />
-    <state width="1874" height="267" key="GridCell.Tab.0.bottom" timestamp="1606399869821">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state width="1874" height="267" key="GridCell.Tab.0.bottom/0.27.1920.1012@0.27.1920.1012" timestamp="1606399869821" />
-    <state width="1874" height="267" key="GridCell.Tab.0.center" timestamp="1606399869821">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state width="1874" height="267" key="GridCell.Tab.0.center/0.27.1920.1012@0.27.1920.1012" timestamp="1606399869821" />
-    <state width="1874" height="267" key="GridCell.Tab.0.left" timestamp="1606399869820">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state width="1874" height="267" key="GridCell.Tab.0.left/0.27.1920.1012@0.27.1920.1012" timestamp="1606399869820" />
-    <state width="1874" height="267" key="GridCell.Tab.0.right" timestamp="1606399869821">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state width="1874" height="267" key="GridCell.Tab.0.right/0.27.1920.1012@0.27.1920.1012" timestamp="1606399869821" />
-    <state width="1874" height="192" key="GridCell.Tab.1.bottom" timestamp="1600750363507">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state width="1874" height="192" key="GridCell.Tab.1.bottom/0.27.1920.1012@0.27.1920.1012" timestamp="1600750363507" />
-    <state width="1874" height="192" key="GridCell.Tab.1.center" timestamp="1600750363507">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state width="1874" height="192" key="GridCell.Tab.1.center/0.27.1920.1012@0.27.1920.1012" timestamp="1600750363507" />
-    <state width="1874" height="192" key="GridCell.Tab.1.left" timestamp="1600750363506">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state width="1874" height="192" key="GridCell.Tab.1.left/0.27.1920.1012@0.27.1920.1012" timestamp="1600750363506" />
-    <state width="1874" height="192" key="GridCell.Tab.1.right" timestamp="1600750363507">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state width="1874" height="192" key="GridCell.Tab.1.right/0.27.1920.1012@0.27.1920.1012" timestamp="1600750363507" />
-    <state x="848" y="429" width="937" height="701" key="dock-window-1" timestamp="1597993605047">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state x="848" y="429" width="937" height="701" key="dock-window-1/0.27.1920.1012@0.27.1920.1012" timestamp="1597993605047" />
-    <state x="141" y="153" width="1289" height="548" key="find.popup" timestamp="1601471319486">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state x="141" y="153" width="1289" height="548" key="find.popup/0.27.1920.1012@0.27.1920.1012" timestamp="1601471319486" />
-    <state x="269" y="236" width="1372" height="592" key="new project wizard" timestamp="1598274796150">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state x="269" y="236" width="1372" height="592" key="new project wizard/0.27.1920.1012@0.27.1920.1012" timestamp="1598274796150" />
-    <state x="624" y="243" key="run.anything.popup" timestamp="1598005568183">
-      <screen x="0" y="27" width="1920" height="1012" />
-    </state>
-    <state x="624" y="243" key="run.anything.popup/0.27.1920.1012@0.27.1920.1012" timestamp="1598005568183" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

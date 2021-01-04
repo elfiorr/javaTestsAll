@@ -1,7 +1,12 @@
 package packageWithAllTests.api.wowsTests.api.account.player;
 
+import org.junit.jupiter.api.Tag;
+
 import java.util.HashMap;
 
+import static packageWithAllTests.api.TestParametersFactory.API_WOWS;
+
+@Tag(API_WOWS)
 public class VerifyCorrectnessOfResponseInPlayerForExistingPlayerTest extends PlayerTests {
 
     private static final int STATUS_CODE = 200;
